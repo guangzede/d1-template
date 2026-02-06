@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9d8a7c70-f0f7-4ea8-89cc-384f9db4b3d3",
+			"database_name": "lingshu-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
